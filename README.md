@@ -148,7 +148,7 @@ Found an issue or want to suggest improvements?
 - Submit a pull request
 - Contact: eoin.vincent@evidentscientific.com
 
-## 📊 Updates
+##  Updates
 
 This knowledge base is periodically updated to reflect:
 - New product releases
