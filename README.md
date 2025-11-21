@@ -1,6 +1,6 @@
-# Evident Scientific Knowledge Base
+# Evident Knowledge Base
 
-> Comprehensive knowledge base of Evident Scientific's inspection products and solutions for AI/LLM consumption
+> Comprehensive knowledge base of Evident Inspection products and solutions for AI/LLM consumption
 
 ##  Overview
 
